@@ -14,6 +14,11 @@ Be sure to read the section **Using the UNIX system**.
 
 _It may take a while before you get access, but you can continue learning while you wait._
 
+**Note for Returning Students:**
+If you are an old student and had a Unix account before, which has expired, do not create a new Unix account. Instead, mention your old Unix account details when reaching out to Theo. He will reactivate your old Unix account.
+
+If your account is active, you don't have to do anything.
+
 ### Accessing UiS Unix Machines
 
 To access the Unix system from outside UiS campus, you need to use one of the following jump servers:

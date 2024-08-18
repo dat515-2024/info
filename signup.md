@@ -80,6 +80,8 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
 2. Agree on a name for the group.
    The name will be used as the group's GitHub repository.
    We prefer group names that identifies the persons in the group.
+   But we will allow neat and descriptive project names as well.
+   Do not use profanity or other inappropriate names.
    **The group name cannot be changed later.**
 
 3. Navigate to the course's left menu bar and select “New Group”.

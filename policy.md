@@ -1,12 +1,12 @@
 # Grading and Collaboration Policy
 
-All lab assignments must be completed to satisfaction (passed) in order to sit for the exam.
+All lab assignments must be completed to satisfaction (passed) in order to sit for the exam or pass the course.
 
 ## Lab Approval Process
 
-Some of the assignments will be automatically approved by QuickFeed when sufficiently many tests pass; these does not require any manual approval.
+Some of the assignments _may_ be automatically approved by QuickFeed when sufficiently many tests pass; these does not require any manual approval.
 
-For assignments that require TA approval, *you must* present your solution to a member of the teaching staff.
+For assignments that require TA approval, _you must_ present your solution to a member of the teaching staff.
 For group assignments, each group member must **individually** present and explain their work to a TA for approval.
 This should be done during lab hours.
 Approval can take place in-person or remotely via Discord.
@@ -32,12 +32,12 @@ In such cases, you will be granted **one additional attempt** per lab, limited t
 
 ### Slip Days
 
-We have frequent lab handins in this course and to add some flexibility to your schedule, we have adopted a scheme with *slip days*.
+We have frequent lab handins in this course and to add some flexibility to your schedule, we have adopted a scheme with _slip days_.
 This means that if you cannot make a handin deadline, you can use up to a total of **15 slip days** throughout the semester without failing the course.
 These slip days can be used for things like illness, resit exams, offshore work, military service or other conflicting deadlines.
 Weekends and holidays **are included** in your slip day budget.
 
-*Be advised that it is the date on your lab's submission as viewed on GitHub that counts towards the slip days.*
+_Be advised that it is the date on your lab's submission as viewed on GitHub that counts towards the slip days._
 
 **No special extensions will be given if you have exhausted all your slip days, but we will show some flexibility towards minor overruns.**
 
@@ -47,7 +47,7 @@ Weekends and holidays **are included** in your slip day budget.
 
 ### Individual Assignments
 
-*We do not accept joint handins* for individual assignments.
+_We do not accept joint handins_ for individual assignments.
 However, we do encourage collaboration on learning the material, e.g. pointing each other in the right direction and giving hints and tips.
 You may discuss the assignments with others, but you may not copy answers or code from another student or make your code available to others.
 This obviously includes copying the code from former students or from the Internet.
@@ -63,7 +63,7 @@ Groups cannot be composed of members whose commitment to contribute to the group
 Similarly, group members must not be in an exploitable relationship with each other that may lead to a violation of these rules.
 For example, group members cannot be in a romantic or marital relationship.
 
-*This rule implies that group members should commit a similar amount of code on GitHub.*
+_This rule implies that group members should commit a similar amount of code on GitHub._
 
 ### Commit Messages
 
@@ -95,7 +95,7 @@ Please refrain from committing code that does not compile or is otherwise broken
 Before committing a bug fix, please make sure that the bug is fixed and that it passes all local tests.
 Consider adding your own tests to verify that the bug is fixed.
 
-*Each group member must be able to explain their own contributions to the code as indicated by the commit log:*
+_Each group member must be able to explain their own contributions to the code as indicated by the commit log:_
 
 ```sh
 git log --pretty=format:"%h%x09%an%x09%ad%x09%s"
@@ -113,9 +113,9 @@ It is expected that group members have contributed equally to the code independe
 Any form of cheating, plagiarism, i.e. copying of another student’s text or source code, will result in a non-passing grade, and may be reported to the university for administrative processing.
 Committing acts that violate Student Conduct policies that result in course disruption are cause for suspension or dismissal from UiS.
 
-*Don’t cheat. It’s not worth it!*
+_Don’t cheat. It’s not worth it!_
 
-### Generative Models
+## Generative Models
 
 You may use generative models such as ChatGPT or GitHub Copilot to generate code.
 However, you must be able to explain the code that is generated as if you had written it yourself.
