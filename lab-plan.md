@@ -6,8 +6,8 @@
 | 2 | [Getting Started with Kubernetes: Building and Deploying][2] | Pass/fail | TA | Individually | September 10 |
 | 3 | [Getting Started with AWS][3] | Pass/fail | TA | Individually | September 24 |
 | 4 | [Building Apps with Service Weaver][4] | Pass/fail | TA | Individually | September 24 |
-| 5 | [Course Project][5] | Pass/fail | TA | Group | October 31 |
-| 6 | [Project Presentation][6] | Pass/fail | TA | Group | November 7 |
+| 5 | [Course Project][5] | Pass/fail | TA | Group | November 7 |
+| 6 | [Project Presentation][6] | Pass/fail | TA | Group | November 14 |
 
 [1]: https://github.com/dat515-2024/assignments/tree/main/lab1
 [2]: https://github.com/dat515-2024/assignments/tree/main/lab2
