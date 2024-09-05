@@ -9,9 +9,9 @@
 | 38   | September | 16  | Kubernetes: Container Orchestration | 19  | Cloud APIs and Microservices Concepts |
 | 39   | September | 23  | Serverless Computing                | 26  | (No lecture)                          |
 
-## Planned Guest Lectures
+## Guest Lectures
 
-- Title: TBD, Vinay Setty, [Factiverse][1] and UiS
-- Title: TBD, Speakers: Morten Mossige and Lydia Sun, ABB Robotics
+- How Factiverse Uses Cloud Computing for AI Training/Inference and Web Hosting, Vinay Setty, [Factiverse][1] and UiS.
+- How ABB Robotics Uses Cloud Resources for DevOps and Testing, Speakers: Morten Mossige, ABB Robotics and UiS and Lydia Sun, ABB Robotics.
 
 [1]: https://factiverse.ai
