@@ -3,8 +3,15 @@
 The presentation will take place in room S-115 in Kitty Kjellands hus (KK).
 The room is downstairs below the campus book store.
 
+Before your session, please make sure that you have your presentation files committed and pushed to your group's repository for easy access.
+Demo videos should be uploaded to YouTube as unlisted videos, and the link should be shared with us in the `lab6/README.md` file of your repository.
+
 Please arrive 10 minutes before your session starts so that we can load the presentation files onto a single computer, to reduce switching time.
-We can show PowerPoint or PDF on the computer in the room; if your presenting with Keynote on macOS, please let us know before the session so that we can organize switching with the least amount of friction.
+We can show PowerPoint or PDF on the computer in the room.
+If your presenting with Keynote on macOS, please let us know before the session so that we can organize switching with the least amount of friction.
+
+Reminder: all participants of groups listed in each session is expected to attend the whole session.
+Participants are free to attend other sessions as well.
 
 ## 11:00 - 11:50 Session
 
