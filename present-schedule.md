@@ -1,5 +1,11 @@
 # Presentation Schedule
 
+The presentation will take place in room S-115 in Kitty Kjellands hus (KK).
+The room is downstairs below the campus book store.
+
+Please arrive 10 minutes before your session starts so that we can load the presentation files onto a single computer, to reduce switching time.
+We can show PowerPoint or PDF on the computer in the room; if your presenting with Keynote on macOS, please let us know before the session so that we can organize switching with the least amount of friction.
+
 ## 11:00 - 11:50 Session
 
 | Time      | Group           |
