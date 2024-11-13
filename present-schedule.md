@@ -13,6 +13,13 @@ If your presenting with Keynote on macOS, please let us know before the session 
 Reminder: all participants of groups listed in each session is expected to attend the whole session.
 Participants are free to attend other sessions as well.
 
+The presentation session is pass/fail.
+The intention is to examine whether or not you are the authors of the project you are presenting.
+We are not looking to fail anyone, but we don't accept cheating.
+You should do the best you can to present the work.
+It is the report that decides the pass/fail of the course.
+You should think of the presentation as a mandatory assignment necessary to pass.
+
 ## 11:00 - 11:50 Session
 
 | Time      | Group           |
